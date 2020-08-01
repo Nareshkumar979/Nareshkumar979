@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello Guys 👋
+
+My Name is Naresh Kumar Palaniappan and I'm a Full Stack Software Developer having experience in developing Web Applications and Portals. I'm from Puducherry and curring working as a Senior Software Engineer - I  
 
 <!--
 **Nareshkumar979/Nareshkumar979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
